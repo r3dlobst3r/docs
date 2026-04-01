@@ -11,7 +11,7 @@ saltbox_automation:
     name: Sandbox
     summary: |-
       a repository that serves as a community-driven space for unofficial Saltbox enhancements and is included in a standard Saltbox installation.
-    link: https://github.com/saltyorg/Sandbox
+    link: https://github.com/r3dlobst3r/Sandbox
 ---
 
 <!-- BEGIN SALTBOX MANAGED OVERVIEW SECTION -->
@@ -20,7 +20,7 @@ saltbox_automation:
 
 ## Overview
 
-[Sandbox](https://github.com/saltyorg/Sandbox) is a repository that serves as a community-driven space for unofficial Saltbox enhancements and is included in a standard Saltbox installation.
+[Sandbox](https://github.com/r3dlobst3r/Sandbox) is a repository that serves as a community-driven space for unofficial Saltbox enhancements and is included in a standard Saltbox installation.
 
 ---
 <!-- END SALTBOX MANAGED OVERVIEW SECTION -->

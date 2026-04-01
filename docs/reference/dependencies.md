@@ -24,8 +24,8 @@ This script will:
 2. delete an existing repo
 3. clone the saltbox repo to the system (default location `/srv/git/sb`)
 4. create some script aliases
-5. run [`sb_dep.sh`](https://github.com/saltyorg/sb/blob/master/sb_dep.sh)
-6. run [`sb_repo.sh`](https://github.com/saltyorg/sb/blob/master/sb_repo.sh)
+5. run [`sb_dep.sh`](https://github.com/r3dlobst3r/sb/blob/master/sb_dep.sh)
+6. run [`sb_repo.sh`](https://github.com/r3dlobst3r/sb/blob/master/sb_repo.sh)
 
 At the end of this you will have a local copy of the Saltbox repo, and all the things that Saltbox relies on to install will be available.
 

@@ -15,13 +15,13 @@ from html import escape
 # Default configuration
 DEFAULT_REPOS = [
     {
-        "url": "https://github.com/saltyorg/Saltbox",
+        "url": "https://github.com/r3dlobst3r/Saltbox",
         "branch_a": "pre-role-refactor",
         "branch_b": "master",
         "output": "saltbox.html",
     },
     {
-        "url": "https://github.com/saltyorg/Sandbox",
+        "url": "https://github.com/r3dlobst3r/Sandbox",
         "branch_a": "pre-role-refactor",
         "branch_b": "master",
         "output": "sandbox.html",

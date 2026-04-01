@@ -45,7 +45,7 @@ saltbox_automation:
 
 ## Configuration
 
-Saltbox offers several options to customize the `configuration.yml` via the inventory system. We recommend reviewing the [configuration template](https://github.com/saltyorg/Saltbox/blob/master/roles/authelia/templates/configuration.yml.j2) and the [default variables](https://github.com/saltyorg/Saltbox/blob/master/roles/authelia/defaults/main.yml). It is highly recommended to review the upstream documentation for configuration options.
+Saltbox offers several options to customize the `configuration.yml` via the inventory system. We recommend reviewing the [configuration template](https://github.com/r3dlobst3r/Saltbox/blob/master/roles/authelia/templates/configuration.yml.j2) and the [default variables](https://github.com/r3dlobst3r/Saltbox/blob/master/roles/authelia/defaults/main.yml). It is highly recommended to review the upstream documentation for configuration options.
 
 Some of the features that can be enabled are Two-Factor Authentication, Duo notifications and SMTP notifications.
 

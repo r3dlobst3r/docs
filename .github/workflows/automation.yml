@@ -48,7 +48,7 @@ jobs:
       - name: Checkout Saltbox repository
         uses: actions/checkout@v6
         with:
-          repository: saltyorg/Saltbox
+          repository: r3dlobst3r/Saltbox
           ref: ${{ github.event.inputs.saltbox_branch || 'master' }}
           path: saltbox
           fetch-depth: 1
@@ -56,7 +56,7 @@ jobs:
       - name: Checkout Sandbox repository
         uses: actions/checkout@v6
         with:
-          repository: saltyorg/Sandbox
+          repository: r3dlobst3r/Sandbox
           ref: ${{ github.event.inputs.sandbox_branch || 'master' }}
           path: sandbox
           fetch-depth: 1
@@ -64,7 +64,7 @@ jobs:
       - name: Install sb-docs
         uses: jaxxstorm/action-install-gh-release@v2.1.0
         with:
-          repo: saltyorg/docs-automation
+          repo: r3dlobst3r/docs-automation
           tag: latest
           extension-matching: disable
           platform: linux
@@ -75,7 +75,7 @@ jobs:
       - name: Install sb binary (for CLI help generation)
         uses: jaxxstorm/action-install-gh-release@v2.1.0
         with:
-          repo: saltyorg/sb-go
+          repo: r3dlobst3r/sb-go
           tag: latest
           extension-matching: disable
           platform: linux

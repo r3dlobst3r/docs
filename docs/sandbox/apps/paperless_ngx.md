@@ -59,7 +59,7 @@ Visit <https://paperless.iYOUR_DOMAIN_NAMEi>.
 ## Basics
 
 !!! info
-    Please refer to [this](https://github.com/saltyorg/docs/issues/116#issuecomment-1278733921) comment on the initial PR for questions about google storage!
+    Please refer to [this](https://github.com/r3dlobst3r/docs/issues/116#issuecomment-1278733921) comment on the initial PR for questions about google storage!
 
 <!-- BEGIN SALTBOX MANAGED VARIABLES SECTION -->
 <!-- This section is managed by sb-docs - DO NOT EDIT MANUALLY -->

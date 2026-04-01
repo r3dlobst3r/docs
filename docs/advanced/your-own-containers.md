@@ -149,7 +149,7 @@ Develop and maintain your own Saltbox-compatible roles in a dedicated playbook c
 
 <div markdown>
 
-[:fontawesome-brands-github:**saltbox_mod**](https://github.com/saltyorg/saltbox_mod){ .md-button }
+[:fontawesome-brands-github:**saltbox_mod**](https://github.com/r3dlobst3r/saltbox_mod){ .md-button }
 
 </div>
 

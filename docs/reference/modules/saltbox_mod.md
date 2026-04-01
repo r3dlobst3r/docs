@@ -45,7 +45,7 @@ Variables can be customized using the [Inventory](/saltbox/inventory/index.md#ov
 
         ```yaml
         # Type: string
-        saltbox_mod_repo: "https://github.com/saltyorg/saltbox_mod.git"
+        saltbox_mod_repo: "https://github.com/r3dlobst3r/saltbox_mod.git"
         ```
 
     ??? variable string "`saltbox_mod_branch`"

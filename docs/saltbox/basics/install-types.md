@@ -16,7 +16,7 @@ Saltbox consists of a "Core" with various extra components added onto that core.
 |                                                                                                                    |   `core`    |  `saltbox`[^1]  | `mediabox`[^1]  | `feederbox`[^1] |
 |:-------------------------------------------------------------------------------------------------------------------|:-----------:|:---------------:|:---------------:|:---------------:|
 | System Tweaks                                                                                                      | ![Yes][yes] |   ![Yes][yes]   |   ![Yes][yes]   |   ![Yes][yes]   |
-| [Saltbox MOTD](https://github.com/saltyorg/motd)                                                                   | ![Yes][yes] |   ![Yes][yes]   |   ![Yes][yes]   |   ![Yes][yes]   |
+| [Saltbox MOTD](https://github.com/r3dlobst3r/motd)                                                                   | ![Yes][yes] |   ![Yes][yes]   |   ![Yes][yes]   |   ![Yes][yes]   |
 | Common Tools and Tasks                                                                                             | ![Yes][yes] |   ![Yes][yes]   |   ![Yes][yes]   |   ![Yes][yes]   |
 | [Docker](https://www.docker.com/community-edition)                                                                 | ![Yes][yes] |   ![Yes][yes]   |   ![Yes][yes]   |   ![Yes][yes]   |
 | [Rclone](https://rclone.org)                                                                                       | ![Yes][yes] |   ![Yes][yes]   |   ![Yes][yes]   |   ![Yes][yes]   |

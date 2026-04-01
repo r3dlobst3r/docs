@@ -10,9 +10,9 @@ hide:
 
 # Saltbox
 
-[![GitHub Org's stars](https://img.shields.io/github/stars/saltyorg/Saltbox?style=flat&logo=github)](https://github.com/saltyorg/Saltbox/stargazers)
-[![Last Commit](https://img.shields.io/github/last-commit/saltyorg/saltbox?style=flat&logo=github)](https://github.com/saltyorg/saltbox/commits)
-[![License](https://img.shields.io/github/license/saltyorg/saltbox?style=flat&logo=github)](https://github.com/saltyorg/Saltbox/blob/master/LICENSE.md)
+[![GitHub Org's stars](https://img.shields.io/github/stars/r3dlobst3r/Saltbox?style=flat&logo=github)](https://github.com/r3dlobst3r/Saltbox/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/r3dlobst3r/saltbox?style=flat&logo=github)](https://github.com/r3dlobst3r/saltbox/commits)
+[![License](https://img.shields.io/github/license/r3dlobst3r/saltbox?style=flat&logo=github)](https://github.com/r3dlobst3r/Saltbox/blob/master/LICENSE.md)
 [![Discord](https://img.shields.io/discord/853755447970758686?style=flat&logo=discord&logoColor=white)](https://discord.gg/ugfKXpFND8)
 { style="text-align:center;" }
 

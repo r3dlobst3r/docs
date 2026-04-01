@@ -335,7 +335,7 @@ To edit any of the following configuration files, use the command written in the
 
     13. Allows alternate DNS validation providers supported by Traefik.
 
-        Implemented ones are listed in [providers.yml.default](https://github.com/saltyorg/Saltbox/blob/master/defaults/providers.yml.default).
+        Implemented ones are listed in [providers.yml.default](https://github.com/r3dlobst3r/Saltbox/blob/master/defaults/providers.yml.default).
 
     14. Defines which subdomain the Traefik dashboard will be accessible at.
 

@@ -5,7 +5,7 @@ site_description: >-
   Explore comprehensive guides and support for Saltbox: an Ansible-based solution for self-hosting a containerized media delivery and acquisition system
 
 repo_name: docs
-repo_url: https://github.com/saltyorg/docs
+repo_url: https://github.com/r3dlobst3r/docs
 
 edit_uri: edit/main/docs/
 
@@ -152,7 +152,7 @@ extra:
       name: Discord
     - icon: fontawesome/brands/github
       class: md-social__link
-      link: "https://github.com/saltyorg/Saltbox"
+      link: "https://github.com/r3dlobst3r/Saltbox"
       name: GitHub
   status:
     deprecated: Deprecated documentation that is unlikely to be of use

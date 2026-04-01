@@ -10,7 +10,7 @@ tags:
 
 IT IS QUITE PROBABLE THAT SOME INFORMATION HERE IS OUTDATED
 
-[PLEASE OPEN ISSUES](https://github.com/saltyorg/docs/issues)
+[PLEASE OPEN ISSUES](https://github.com/r3dlobst3r/docs/issues)
 
 ## What is backed up?
 
@@ -83,5 +83,5 @@ How does this work?
 
 The source code for the Restore Service Scripts are listed below:
 
-- <https://github.com/saltyorg/Saltbox/blob/master/roles/backup/tasks/restore_service.yml> (Backup Script)
-- <https://github.com/saltyorg/scripts/blob/master/restore.sh> (Restore Script)
+- <https://github.com/r3dlobst3r/Saltbox/blob/master/roles/backup/tasks/restore_service.yml> (Backup Script)
+- <https://github.com/r3dlobst3r/scripts/blob/master/restore.sh> (Restore Script)

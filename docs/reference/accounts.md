@@ -234,7 +234,7 @@ Each tab shows a "section" in the file.
 
     `remotes/settings/mount`: Toggles whether you want this remote mounted in the file system.
 
-    `remotes/settings/template`: The name of the template you want to use for the mount. Currently Saltbox supports 4 options: `google`, `dropbox`, `sftp` and a path to a file ("/opt/mount-templates/remote.j2") containing either jinja2 template or an actual copy of a systemd service file. A [community repo](https://github.com/saltyorg/mount-templates) is maintained of user submitted mount options which can be referenced via path (i.e. `/opt/mount-templates/generic.j2`.) We recommend saving your own custom templates/services in `/opt/mount-templates/custom` to ensure they are backed up and not subject to being overwritten by the repo.
+    `remotes/settings/template`: The name of the template you want to use for the mount. Currently Saltbox supports 4 options: `google`, `dropbox`, `sftp` and a path to a file ("/opt/mount-templates/remote.j2") containing either jinja2 template or an actual copy of a systemd service file. A [community repo](https://github.com/r3dlobst3r/mount-templates) is maintained of user submitted mount options which can be referenced via path (i.e. `/opt/mount-templates/generic.j2`.) We recommend saving your own custom templates/services in `/opt/mount-templates/custom` to ensure they are backed up and not subject to being overwritten by the repo.
 
     `remotes/settings/union`: Toggles whether you want to add this remote mount to `/mnt/unionfs`. This requires that `mount` be enabled.
 

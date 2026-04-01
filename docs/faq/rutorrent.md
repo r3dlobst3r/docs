@@ -10,7 +10,7 @@ tags:
 
 IT IS QUITE PROBABLE THAT SOME INFORMATION HERE IS OUTDATED
 
-[PLEASE OPEN ISSUES](https://github.com/saltyorg/docs/issues)
+[PLEASE OPEN ISSUES](https://github.com/r3dlobst3r/docs/issues)
 
 ## Change ruTorrent download path after installation
 
