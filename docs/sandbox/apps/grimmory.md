@@ -16,7 +16,7 @@ saltbox_automation:
       url: https://hub.docker.com/r/grimmory/grimmory/tags
       type: docker
     - name: Community
-      url: https://discord.gg/FwqHeFWk
+      url: https://discord.gg/9YJ7HB4n8T
       type: discord
   project_description:
     name: Grimmory
@@ -41,7 +41,7 @@ saltbox_automation:
 
 [:fontawesome-brands-docker:**Releases**](https://hub.docker.com/r/grimmory/grimmory/tags){ .md-button .md-button--stretch }
 
-[:fontawesome-brands-discord:**Community**](https://discord.gg/FwqHeFWk){ .md-button .md-button--stretch }
+[:fontawesome-brands-discord:**Community**](https://discord.gg/9YJ7HB4n8T){ .md-button .md-button--stretch }
 
 </div>
 
